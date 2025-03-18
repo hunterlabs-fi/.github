@@ -9,4 +9,5 @@ Welcome to [Hunter Labs](https://hunterlabs.fi/) — a crypto-native development
 ## 👥 Team
 
 - [Gaspard](https://x.com/gaspardlezin)
+- [Erwan](https://x.com/reptinchain)
 - [Panagiotis](https://x.com/hellopath)
