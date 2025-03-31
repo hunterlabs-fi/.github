@@ -4,7 +4,7 @@ Welcome to [Hunter Labs](https://hunterlabs.fi/) — a crypto-native development
 
 ## 🚀 Products
 
-- [Suby.fi](https://suby.fi/) - Recurring Crypto Payments that slash your subscription costs.
+- [Suby.fi](https://suby.fi/) - Recurring Crypto Payments
 
 ## 👥 Team
 
