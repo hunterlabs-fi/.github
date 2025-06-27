@@ -1,6 +1,9 @@
-# Hunter Labs
+# Suby
 
-Welcome to [Hunter Labs](https://hunterlabs.fi/) — a crypto-native development studio committed to building the next generation of financial products.
+Accept crypto payments where your users already are.
+Paylinks, subscriptions, and payments all automated on Telegram & Discord.
+
+Powered by $SUBY
 
 ## 🚀 Products
 
